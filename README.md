@@ -18,9 +18,10 @@ CheapSeqDuo
 
 下記リンクからALLPCBを初めて利用すると、$30のクーポンがもらえますのでどうぞ。
 
+[クーポン付きALLPCB入会URL](https://www.allpcb.com/?Mb_InviteId=77225)
+
 (2021年7月現在 ALLPCBは「毎月送料含め基板無料キャンペーン」をやっているようで、この基板であれば5枚が無料で作れます。
 
-https://www.allpcb.com/?Mb_InviteId=77225
 
 
 
