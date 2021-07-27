@@ -12,6 +12,9 @@ CheapSeqDuo
 
 1つのArduinoをコントローラに、もう一つのArduinoを音源用に、と思い配置しています。
 
+<img src="imgs/cover.jpg">
+
+
 # 感謝
 
 この基板はALLPCBのキャンペーンで無料で基板が作れるという事で作り始めたものです。
